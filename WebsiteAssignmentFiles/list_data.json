@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Favorite Restaurants in Berkeley": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Restaurant Name": "Addis Restaurant",
+			"Cuisine Type": "Ethiopian",
+			"Rating": "9/10",
+			"Favorite Dish": "Quanta Firfir"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Restaurant Name": "Yogurt Park",
+			"Cuisine Type": "Yogurt or Dessert",
+			"Rating": "9/10",
+			"Favorite Dish": "Vanilla Yogurt with Cheesecake and Brownie Bites"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Restaurant Name": "Imm Thai",
+			"Cuisine Type": "Thai",
+			"Rating": "9/10",
+			"Favorite Dish": "Pad Kee Mao with Tofu"
 		}
 	]
 }
